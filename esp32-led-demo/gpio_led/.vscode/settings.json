@@ -1,0 +1,19 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "D:/Code/ESP-IDF/",
+  "idf.pythonInstallPath": "D:\\Code\\ESP-IDF-Tool\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-ethernet-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM12",
+  "idf.toolsPathWin": "D:\\Code\\ESP-IDF-Tool\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "D:\\Code\\ESP-IDF-Tool\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=d:\\Coding\\esp32-led-demo\\gpio_led\\build"
+  ]
+}
